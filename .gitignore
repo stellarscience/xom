@@ -1,5 +1,6 @@
 .DS_Store
 build/
+gradle_build/
 target/
 .classpath
 .project
@@ -27,3 +28,4 @@ dist/
 xom.fb
 jester*
 trademark*
+/.gradle/
